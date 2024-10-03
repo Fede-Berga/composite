@@ -11,7 +11,7 @@ In software engineering, the composite pattern is a partitioning design pattern.
     Clone the repo and move into the project directory:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Fede-Berga/composite.git
     cd your-repo
     ```
 
