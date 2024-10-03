@@ -53,7 +53,7 @@ In software engineering, the composite pattern is a partitioning design pattern.
 
 ## Installation - the harder (maybe) way
 
-1. Install Docker:
+1. Install [Docker](https://www.docker.com/)
 
 2. type the command:
 
