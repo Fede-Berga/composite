@@ -7,9 +7,6 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-# Install any dependencies specified in requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
-
 # Define environment variable
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
